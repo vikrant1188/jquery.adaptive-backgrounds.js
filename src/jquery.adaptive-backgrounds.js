@@ -2,7 +2,7 @@
 /* jshint debug: true, expr: true */
 
 ;(function($){
-
+  /* Updates */
   /* Constants & defaults. */
   var DATA_COLOR    = 'data-ab-color';
   var DATA_PARENT   = 'data-ab-parent';
